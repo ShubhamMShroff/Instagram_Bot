@@ -11,7 +11,7 @@ Using this repository, you will be able to install and use InstaPy with only ver
 1. Double click the installation file for your system
 1. If you missed any installation it will tell you what you have to install
 1. Once successfully installed you can edit the quickstart file or use any of the template files from the quickstart_templates folder
-1. Insert your username and password and modify anything you want. Make use of the **[comprehensive documentation](https://github.com/timgrossmann/InstaPy)**.
+1. Insert your username and password and modify anything you want. Make use of the **[comprehensive documentation](https://github.com/ShubhamMShroff/Instagram_Bot/blob/main/Setup.py)**.
 1. The last step is to open the _run folder_ and double click the file that suits your platform, e.g. _mac_start.command_ for MacOS. 
 
 > If you're using one of the template files, make sure to copy and paste them into the same folder as the _quickstart.py_ file is and then rename it to _quickstart.py_ because that is the name of the file that will be chosen once you double click the run script. 
@@ -19,7 +19,7 @@ Using this repository, you will be able to install and use InstaPy with only ver
 
 ### Basic quickstart file 
 To get started quickly we've prepared a basic quickstart file in which you only have to edit the username and password, inside the single quotes, to make sure you're all set up.
-After testing your installation by starting InstaPy once, you can go in and use the [documentation](https://github.com/timgrossmann/InstaPy) to configure your personal bot.
+After testing your installation by starting InstaPy once, you can go in and use the  to configure your personal bot.
 
 The basic quickstart file looks like this:
 ```python
@@ -60,12 +60,14 @@ with smart_run(session):
 
 ### Already used InstaPy before `pip install instapy`?
 If you've used InstaPy before the update to PyPi that allows installing with `pip install instapy`, you have to move your database and log files into the new workspace directory.   
-[**Check out this very short guide on what to do!**](https://github.com/timgrossmann/InstaPy#migrating-your-data-to-the-workspace-folder)
+[**Check out this very short guide on what to do!**](https://github.com/ShubhamMShroff)
 
 ---
 
 ### Encountering an issue while installing?
-If you should encounter any problem with the installation, please use the main repository [InstaPy](https://github.com/timgrossmann/InstaPy) to report the issue instead of this repository.
+If you should encounter any problem with the installation, please use the main repository [InstaPy](https://github.com/ShubhamMShroff/Instagram_Bot) to report the issue instead of this repository.
 
+*****And dont forget to check my YouTube Channel*****
+[**YouTube Channel Link!**](https://www.youtube.com/channel/UCpLYsj7C3Q3BxRUqp149L4Q)
 
 ##### Have fun & stay responsible!
