@@ -11,6 +11,6 @@ And I also made copy of qucikstart file in it so in case you mess with original 
 
  Have fun & stay responsible
  
-*****This all codes made for education perpose only!!!!****
-**** I am not responsible for any action*****
+*****This all codes made for education perpose only!!!!*****
+*****I am not responsible for any action*****
 ######
